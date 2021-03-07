@@ -1,4 +1,4 @@
-print("HelloWorld")
+print("Hello World")
 # Your coding sucks nate
 HW = print("Hello im a weeb")
 print(HW)
